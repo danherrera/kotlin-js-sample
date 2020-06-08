@@ -1,0 +1,10 @@
+{
+  "main": "kotlin-styled.js",
+  "dependencies": {
+    "css-in-js-utils": "^3.0.4",
+    "styled-components": "^4.4.1",
+    "inline-style-prefixer": "^5.1.2"
+  },
+  "name": "kotlin-styled",
+  "version": "0.0.0"
+}

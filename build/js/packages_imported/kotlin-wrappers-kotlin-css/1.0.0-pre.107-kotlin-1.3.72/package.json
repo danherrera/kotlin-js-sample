@@ -1,0 +1,10 @@
+{
+  "main": "kotlin-wrappers-kotlin-css.js",
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": [],
+  "name": "kotlin-wrappers-kotlin-css",
+  "version": "1.0.0-pre.107-kotlin-1.3.72"
+}

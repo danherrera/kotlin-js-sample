@@ -1,0 +1,8 @@
+{
+  "main": "kotlin-react.js",
+  "dependencies": {
+    "react": "^16.13.1"
+  },
+  "name": "kotlin-react",
+  "version": "0.0.0"
+}
